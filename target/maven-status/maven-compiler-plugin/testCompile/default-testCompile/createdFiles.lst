@@ -1,0 +1,7 @@
+PageObjects\AddCustomerPOM.class
+Utilities\WaitHelper.class
+testRunner\TestRunner.class
+stepDefinitions\BaseClass.class
+PageObjects\LoginPagePOM.class
+stepDefinitions\StepMethods.class
+PageObjects\SearchCustomerPOM.class

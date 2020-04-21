@@ -1,0 +1,103 @@
+2020-04-21 09:52:59,362  INFO [main] nopCommerce:24 - *********Launching Browser**********
+2020-04-21 09:53:03,614  INFO [main] nopCommerce:33 - **********Opening URL************
+2020-04-21 09:53:24,867  INFO [main] nopCommerce:39 - ************Entering Login Details************
+2020-04-21 09:53:25,247  INFO [main] nopCommerce:47 - ************Loggin In************
+2020-04-21 09:53:54,122  INFO [main] nopCommerce:70 - ************Logging Out************
+2020-04-21 09:53:56,985  INFO [main] nopCommerce:78 - ************Closing Browser************
+2020-04-21 11:12:29,458  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 11:12:33,645  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 11:12:37,068  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 11:12:37,425  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 11:12:48,990  INFO [main] nopCommerce:104 - ************Logging Out************
+2020-04-21 11:12:51,353  INFO [main] nopCommerce:112 - ************Closing Browser************
+2020-04-21 12:08:19,521  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:08:23,707  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:08:26,759  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 12:08:27,112  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 12:08:38,262  INFO [main] nopCommerce:104 - ************Logging Out************
+2020-04-21 12:08:40,171  INFO [main] nopCommerce:112 - ************Closing Browser************
+2020-04-21 12:10:20,238  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:10:24,434  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:10:27,616  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 12:10:27,985  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 12:10:46,388  INFO [main] nopCommerce:139 - ************Adding New Customer************
+2020-04-21 12:10:49,850  INFO [main] nopCommerce:150 - ************Entering Customer Details************
+2020-04-21 12:11:02,779  INFO [main] nopCommerce:112 - ************Closing Browser************
+2020-04-21 12:11:08,894  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:11:13,025  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:11:16,176  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 12:11:16,492  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 12:11:27,623  INFO [main] nopCommerce:104 - ************Logging Out************
+2020-04-21 12:11:29,399  INFO [main] nopCommerce:112 - ************Closing Browser************
+2020-04-21 12:12:51,967  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:12:56,144  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:12:59,014  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 12:12:59,340  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 12:13:16,924  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:13:21,061  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:13:23,634  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 12:13:23,959  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 12:13:34,241  INFO [main] nopCommerce:104 - ************Logging Out************
+2020-04-21 12:13:36,032  INFO [main] nopCommerce:112 - ************Closing Browser************
+2020-04-21 12:15:07,676  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:15:11,838  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:15:15,045  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 12:15:15,402  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 12:15:32,658  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:15:36,786  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:20:37,419  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:20:41,605  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:20:44,846  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 12:20:45,167  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 12:24:17,381  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:24:21,554  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:24:24,563  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 12:24:24,885  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 12:24:44,639  INFO [main] nopCommerce:139 - ************Adding New Customer************
+2020-04-21 12:24:45,986  INFO [main] nopCommerce:150 - ************Entering Customer Details************
+2020-04-21 12:24:58,539  INFO [main] nopCommerce:112 - ************Closing Browser************
+2020-04-21 12:25:04,603  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:25:08,732  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:25:12,036  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 12:25:12,332  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 12:25:23,769  INFO [main] nopCommerce:104 - ************Logging Out************
+2020-04-21 12:25:26,240  INFO [main] nopCommerce:112 - ************Closing Browser************
+2020-04-21 12:31:03,206  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:31:07,375  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:31:15,278  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 12:31:15,569  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 12:31:36,730  INFO [main] nopCommerce:139 - ************Adding New Customer************
+2020-04-21 12:31:38,070  INFO [main] nopCommerce:150 - ************Entering Customer Details************
+2020-04-21 12:31:50,462  INFO [main] nopCommerce:112 - ************Closing Browser************
+2020-04-21 12:31:56,505  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:32:00,634  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:32:04,574  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 12:32:04,913  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 12:32:18,387  INFO [main] nopCommerce:104 - ************Logging Out************
+2020-04-21 12:32:22,416  INFO [main] nopCommerce:112 - ************Closing Browser************
+2020-04-21 12:34:53,462  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:34:57,663  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:35:02,441  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 12:35:02,777  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 12:35:21,666  INFO [main] nopCommerce:139 - ************Adding New Customer************
+2020-04-21 12:35:22,995  INFO [main] nopCommerce:150 - ************Entering Customer Details************
+2020-04-21 12:35:35,453  INFO [main] nopCommerce:112 - ************Closing Browser************
+2020-04-21 12:35:41,333  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:35:45,464  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:35:48,253  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 12:35:48,568  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 12:36:04,519  INFO [main] nopCommerce:104 - ************Logging Out************
+2020-04-21 12:36:06,347  INFO [main] nopCommerce:112 - ************Closing Browser************
+2020-04-21 12:37:26,458  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:37:30,646  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:37:49,015  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 12:37:49,333  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 12:38:10,711  INFO [main] nopCommerce:139 - ************Adding New Customer************
+2020-04-21 12:38:12,677  INFO [main] nopCommerce:150 - ************Entering Customer Details************
+2020-04-21 12:38:26,813  INFO [main] nopCommerce:112 - ************Closing Browser************
+2020-04-21 12:38:32,827  INFO [main] nopCommerce:58 - *********Launching Browser**********
+2020-04-21 12:38:36,959  INFO [main] nopCommerce:67 - **********Opening URL************
+2020-04-21 12:38:40,206  INFO [main] nopCommerce:73 - ************Entering Login Details************
+2020-04-21 12:38:40,479  INFO [main] nopCommerce:81 - ************Loggin In************
+2020-04-21 12:38:52,629  INFO [main] nopCommerce:104 - ************Logging Out************
+2020-04-21 12:38:54,391  INFO [main] nopCommerce:112 - ************Closing Browser************
